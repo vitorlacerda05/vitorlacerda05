@@ -18,9 +18,11 @@
 - **Design**: Figma, Adobe Photoshop
 - **Development**: Java, Python, C
 
-## 📚 Academic Background
+## 🎓 Professional and Academic Background
 
+- **Product Designer**: Working in the field for various companies
 - **Bachelor's in Information Systems** - University of São Paulo (USP)
+- **Scientific Initiations in HCI** - Conducting research in Human-Computer Interaction
 - **Technical Course in Internet Informatics** - ETEC - State Technical School of São Paulo
 
 ## 📫 Contact
