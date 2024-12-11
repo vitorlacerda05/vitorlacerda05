@@ -16,7 +16,7 @@
 ## 🛠️ Tools
 
 - **Design**: Figma, Adobe Photoshop
-- **Development**: Java, Python, C
+- **Development**: Java, Python, C, SQL
 
 ## 🎓 Professional and Academic Background
 
