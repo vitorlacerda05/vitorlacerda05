@@ -16,7 +16,7 @@
 ## 🛠️ Tools
 
 - **Design**: Figma, Adobe Photoshop
-- **Development**: Java, Python, C, SQL
+- **Development**: HTML, CSS, Vue.js, SQL, Java, Python
 
 ## 🎓 Professional and Academic Background
 
